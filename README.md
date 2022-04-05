@@ -13,7 +13,12 @@ In the project directory, you can run:
 Runs the app in the development model
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Displaying product
+Table product
 
 ![Screenshot](https://github.com/ijc3093/Shoppings-React_Axios-Typescript/blob/master/images/list.png)
+
+
+Detail product
+
+![Screenshot](https://github.com/ijc3093/Shoppings-React_Axios-Typescript/blob/master/images/detail.png)
 

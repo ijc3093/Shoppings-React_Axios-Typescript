@@ -16,7 +16,7 @@ interface RouterProps { // type for `match.params`
 //const QRCode = require('qrcode');
 const url_details = "http://localhost:3000/detail/";
 type Props = RouteComponentProps<RouterProps>;
-const url = "http://localhost:8888/Product-Azure-PDO-master/Admin/";
+const url = "http://localhost:8888/Product-Azure-PDO/Admin/";
 const url_V = "//player.vimeo.com/video/";
 //const qrcodeImage_url = "http://localhost:8888/Product-Azure-PDO-master/Admin/";
 
