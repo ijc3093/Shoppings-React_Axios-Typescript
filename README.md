@@ -15,5 +15,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Displaying product
 
-![Screenshot](https://github.com/ijc3093/shopping-nodejs-express-mysql-backend/blob/master/images/Display.png)
+![Screenshot](https://github.com/ijc3093/Shoppings-React_Axios-Typescript/blob/master/images/list.png)
 
