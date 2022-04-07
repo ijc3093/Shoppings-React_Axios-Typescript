@@ -1,11 +1,11 @@
-Shoppings-React_Axios-Typescript can all data from backend. Please click this link: "https://github.com/ijc3093/shopping-nodejs-express-mysql-backend.git" in the repository
+Shoppings-React_Axios-Typescript can display all data from backend. Please click this link: "https://github.com/ijc3093/shopping-nodejs-express-mysql-backend.git" in the repository
 
 Topics
 Resources
 
 In the project directory, you can run:
 
-# Node (Backend) 
+# Node (Frontend) 
 - Open another Visual Code studio (VSC)
 - Select New Terminal in the Top Terminal Tab
 - Type in the terminal: npm start and press enter
